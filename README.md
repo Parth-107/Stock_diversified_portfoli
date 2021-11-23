@@ -1,1 +1,1 @@
-# Stock_diversified_portfoli
+# Stock_diversified_portfolio
